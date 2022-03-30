@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SleepyN3ko
 - 👀 I’m interested in programming and anime
 - 🌱 I’m currently learning SQL, node.js, html and stuff
-- 💞️ I’m looking to collaborate on nothing as of now
+- 💞️ I’m looking to collaborate on projects which interfaces with the real world
 - 📫 How to reach me email me @ snowderemusic@gmail.com
 
 <!---
