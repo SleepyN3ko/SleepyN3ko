@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SleepyN3ko
-- 👀 I’m interested in AI
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning how to procrastinate
 - 💞️ I’m looking to collaborate on projects involving python and javascript.
 - 📫 How to reach me email me @ snowderemusic@gmail.com
